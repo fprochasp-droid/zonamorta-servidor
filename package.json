@@ -4,7 +4,7 @@
   "description": "Servidor de partidas online do Zona Morta 3D (salas de até 20 jogadores)",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node servidor-v3.js"
   },
   "engines": {
     "node": ">=18"
